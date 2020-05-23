@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+automatico
+NAO
+blank
+automatico
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+grid_vicidial_list_todos_dia
+NAO
+cons
+grid_todos_dia
+LigMd5

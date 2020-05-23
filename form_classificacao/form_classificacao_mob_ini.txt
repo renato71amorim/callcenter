@@ -1,0 +1,7 @@
+form_classificacao_mob.php
+dinamica_publicado
+form_classificacao_mob
+NAO
+form
+form_classificacao
+LigMd5

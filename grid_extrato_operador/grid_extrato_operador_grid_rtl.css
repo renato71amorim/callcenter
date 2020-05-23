@@ -1,0 +1,32 @@
+.css_usuario_automatico_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_automatico_grid_line {vertical-align: top;text-align: right;}
+.css_nome_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_grid_line {vertical-align: top;text-align: right;}
+.css_ligacoes_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ligacoes_grid_line {vertical-align: top;text-align: right;}
+.css_ligacoes_sub_tot {text-align: right;}
+.css_ligacoes_tot_ger {text-align: right;}
+.css_doacoes_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_doacoes_grid_line {vertical-align: top;text-align: right;}
+.css_doacoes_sub_tot {text-align: right;}
+.css_doacoes_tot_ger {text-align: right;}
+.css_ndoacoes_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ndoacoes_grid_line {vertical-align: top;text-align: right;}
+.css_ndoacoes_sub_tot {text-align: right;}
+.css_ndoacoes_tot_ger {text-align: right;}
+.css_outras_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_outras_grid_line {vertical-align: top;text-align: right;}
+.css_outras_sub_tot {text-align: right;}
+.css_outras_tot_ger {text-align: right;}
+.css_tempo_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tempo_grid_line {vertical-align: top;text-align: center;}
+.css_id_extrato_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_extrato_grid_line {vertical-align: top;text-align: right;}
+.css_pesquisa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pesquisa_grid_line {vertical-align: top;text-align: right;}
+.css_data_inicial_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_inicial_grid_line {vertical-align: top;text-align: center;}
+.css_data_final_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_final_grid_line {vertical-align: top;text-align: center;}
+.css_operador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_operador_grid_line {vertical-align: top;text-align: right;}

@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+grid_operador
+NAO
+cons
+grid_operador
+LigMd5

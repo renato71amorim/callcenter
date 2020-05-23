@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+gerar_extrato
+NAO
+blank
+gerar_extrato
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+form_setor
+NAO
+form
+form_setor
+LigMd5

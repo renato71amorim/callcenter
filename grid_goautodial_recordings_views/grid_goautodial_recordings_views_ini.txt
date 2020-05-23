@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+grid_goautodial_recordings_views
+NAO
+cons
+grid_goautodial_recordings_views
+LigMd5

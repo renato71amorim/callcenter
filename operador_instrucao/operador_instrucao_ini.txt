@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+operador_instrucao
+NAO
+blank
+operador_instrucao
+LigMd5

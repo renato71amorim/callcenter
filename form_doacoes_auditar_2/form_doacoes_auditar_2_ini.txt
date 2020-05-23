@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+form_doacoes_auditar_2
+NAO
+form
+form_doacoes_auditar_2
+LigMd5

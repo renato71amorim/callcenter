@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+control_extrato
+NAO
+contr
+control_extrato
+LigMd5

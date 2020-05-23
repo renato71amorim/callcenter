@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+form_doacoes_gerar_recibo
+NAO
+form
+form_doacoes_gerar_recibo
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+chart_Dados_Graficos
+NAO
+cons
+chart_Dados_Graficos
+LigMd5

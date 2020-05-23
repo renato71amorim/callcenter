@@ -1,0 +1,30 @@
+.css_codigo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_codigo_grid_line {vertical-align: top;text-align: right;}
+.css_nomerecibo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nomerecibo_grid_line {vertical-align: top;text-align: right;}
+.css_operadormensal_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_operadormensal_grid_line {vertical-align: top;text-align: right;}
+.css_operadoravulso_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_operadoravulso_grid_line {vertical-align: top;text-align: right;}
+.css_valor_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_grid_line {text-align: right;}
+.css_cobrador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cobrador_grid_line {vertical-align: top;text-align: right;}
+.css_dataemissao_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dataemissao_grid_line {vertical-align: top;text-align: center;}
+.css_datavencimento_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_datavencimento_grid_line {vertical-align: top;text-align: center;}
+.css_status_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line {vertical-align: top;text-align: right;}
+.css_usuario_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_grid_line {vertical-align: top;text-align: right;}
+.css_timestamp_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_timestamp_grid_line {vertical-align: top;text-align: center;}
+.css_codigoidentificador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_codigoidentificador_grid_line {vertical-align: top;text-align: right;}
+.css_numerorecibo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numerorecibo_grid_line {vertical-align: top;text-align: right;}
+.css_numeroserie_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numeroserie_grid_line {vertical-align: top;text-align: right;}
+.css_valormensal_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valormensal_grid_line {vertical-align: top;text-align: right;}

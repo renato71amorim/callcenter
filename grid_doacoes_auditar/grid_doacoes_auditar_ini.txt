@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+grid_doacoes_auditar
+NAO
+cons
+grid_doacoes_auditar
+LigMd5

@@ -1,0 +1,7 @@
+form_operador_mob.php
+dinamica_publicado
+form_operador_mob
+NAO
+form
+form_operador
+LigMd5

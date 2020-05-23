@@ -1,0 +1,7 @@
+index.php
+dinamica_publicado
+grid_higienizacao
+NAO
+cons
+grid_higienizacao
+LigMd5
